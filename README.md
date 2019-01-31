@@ -4,3 +4,6 @@
 rm -rf .git
 
 * Windows run inside Bash
+
+
+2.
