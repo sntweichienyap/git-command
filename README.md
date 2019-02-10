@@ -1,9 +1,7 @@
 # git-command
 
-1. Delete local repo from .git version control <br />
+1. Delete local repo from .git version control (Windows run inside Bash)
 rm -rf .git
-
-* Windows run inside Bash
 
 
 2.
