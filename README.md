@@ -51,7 +51,7 @@ git reset --hard
 13. Add file to .gitignore and remove existing check-in <br/>
 git reset file_name_x <br/>
 git rm --cached file_name_x <br/>
-[Stackoverflow](https://stackoverflow.com/a/4308645/2965356) 
+[Stackoverflow](https://stackoverflow.com/a/4308645/2965356) example
   
 
 14.
