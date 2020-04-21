@@ -46,3 +46,8 @@ git log --oneline
 
 12. Discard all local changes to all files permanently <br/>
 git reset --hard
+
+13. Add file to .gitignore and remove existing check-in
+git reset <File Name>
+git rm --cached <File Name>
+[Stackoverflow](https://stackoverflow.com/a/4308645/2965356) 
