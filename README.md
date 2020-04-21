@@ -29,7 +29,7 @@ git checkout -b feature_x
 
 
 8. Delete the branch <br/>
-git branch -d featur_x
+git branch -d feature_x
 
 
 9. Get latest local master branch from remote <br/>
@@ -49,8 +49,8 @@ git reset --hard
 
 
 13. Add file to .gitignore and remove existing check-in <br/>
-git reset <File Name> <br/>
-git rm --cached <File Name> <br/>
+git reset file_name_x <br/>
+git rm --cached file_name_x <br/>
 [Stackoverflow](https://stackoverflow.com/a/4308645/2965356) 
   
 
